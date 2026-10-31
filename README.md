@@ -1,52 +1,50 @@
 <!-- ==================================================================
-  GitHub Profile README — setup:
-  1. Create a new PUBLIC repository named exactly:  jurie24102
-     (same as your username — GitHub then shows this file on your profile)
-  2. Put this file in it as README.md
-  3. Edit every [bracketed] placeholder before pushing.
+  GitHub Profile README — jurie24102/jurie24102
+  Honest positioning: AI-assisted builder, learning front-end + QA in public.
+  Update the "Where I am" table at each monthly checkpoint.
 =================================================================== -->
 
-<!-- Typing banner -->
 <p align="center">
   <a href="https://github.com/jurie24102">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=1D5FD6&center=true&vCenter=true&width=650&lines=Front-End+Developer+%C3%97+QA+Automation;I+build+clean+web+experiences...;...and+then+I+break+them+on+purpose." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=1D5FD6&center=true&vCenter=true&width=680&lines=AI-assisted+builder;Shipping+real+products;Learning+front-end+%26+QA+in+public" alt="Typing SVG" />
   </a>
 </p>
 
 <h1 align="center">Hi, I'm Jurie 👋</h1>
 
 <p align="center">
-  <strong>Junior Front-End Developer & QA / Test Automation engineer</strong><br/>
+  <strong>AI-assisted builder — shipping real products while learning front-end development & QA automation in public</strong><br/>
   Remote-ready · South Africa 🇿🇦 · <a href="mailto:jurie24102@gmail.com">jurie24102@gmail.com</a>
 </p>
 
 ---
 
-## 🎯 What I do
+## 🧭 Where I actually am
 
-I sit between two disciplines that make each other stronger:
+I won't pretend to be a developer I'm not yet. Here's the honest version:
 
-| Track | What it means in practice |
+| ✅ I can do this today | 🎯 I'm building toward this |
 | --- | --- |
-| 🎨 **Front-End** | Semantic HTML, modern CSS (Grid, custom properties, `clamp()`, dark mode) and vanilla JavaScript — clean DOM manipulation, `async/await` data fetching, and error handling that keeps users unbroken |
-| 🧪 **QA / Testing** | E2E automation with **Playwright + TypeScript** — Page Object Model, API mocking, dynamic waits, cross-browser runs, accessibility gates and CI pipelines that make failures easy to investigate |
+| Direct AI tools to design and ship working apps end-to-end | Writing production code from scratch, unaided |
+| Read a codebase, run it, test it, and explain the architecture at a high level | Explaining every line — and changing it live, under interview pressure |
+| Operate and maintain shipped products (Play Store apps, macOS apps, web tools) | Owning a codebase as an employed junior developer |
+| Notice when something is broken and drive the fix | Debugging it myself, quickly, without hand-holding |
 
-I build the thing, then I try my best to break it. Both repos below are
-written to be read: clean structure, honest READMEs, and evidence that the
-tests actually pass.
+**Current focus:** a 30-day public sprint to genuinely understand and maintain
+the two projects below — so that "I built this" is a claim I can defend in a
+live technical interview, not just on a README.
 
-## 🚀 Featured projects
+## 🚀 What I've shipped
 
-| Project | What it shows | Stack |
+| Project | What it is | Honest status |
 | --- | --- | --- |
-| ⛅ **[SkyCast](https://github.com/jurie24102/skycast)** — [live demo](https://jurie24102.github.io/skycast/) | Responsive weather dashboard: async API fetching, graceful error handling for every failure mode (offline, 404s, 5xx, timeouts), accessible UI, light/dark theming | HTML5 · CSS3 · Vanilla JS |
-| 🧪 **[SkyCast QA](https://github.com/jurie24102/skycast-qa)** | 20+ automated E2E journeys for SkyCast: Page Object Model, route-based API mocking (including forced 500s & offline), keyboard-only journeys, axe-core accessibility gates, 3-browser CI | Playwright · TypeScript · GitHub Actions |
+| ⛅ **[SkyCast](https://github.com/jurie24102/skycast)** · [live](https://jurie24102.github.io/skycast/) | Responsive weather dashboard (vanilla HTML/CSS/JS, Open-Meteo API) | Built with AI assistance, directed by me. I can run it and explain the architecture; I'm learning to own the code. |
+| 🧪 **[SkyCast QA](https://github.com/jurie24102/skycast-qa)** | Playwright + TypeScript E2E suite: user journeys, forced failures, accessibility gates, 3-browser CI — [passing](https://github.com/jurie24102/skycast-qa/actions/workflows/e2e.yml) | Same: AI-assisted build, my direction. This suite is also my QA curriculum. |
+| 📱 **maSeGoed** | Desktop transcription app (macOS/Windows) — installers public in [MaSeGoed-Releases](https://github.com/jurie24102/MaSeGoed-Releases) | Designed, shipped and operated by me with AI tools |
+| 🎮 **YEETATO** | Android game + [site](https://jurie24102.github.io/yeetato-site/) | Shipped to the Play Store, operated by me |
+| 🛠️ **Forge collection** | Audio, video and social publishing tools | Private — happy to demo in a call |
 
-> I also build and ship real products — a cross-platform transcription app, a
-> terminal AI agent, a radio-station web stack and more. Happy to walk through
-> any of it in an interview.
-
-## 🛠️ Toolkit
+## 🛠️ Tools I'm using and learning
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -56,8 +54,16 @@ tests actually pass.
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Accessibility-axe--core-5563fa" alt="axe-core"/>
 </p>
+
+<p><em>Badges = tools I'm actively working with, not claimed mastery. Ask me what I can do with each one.</em></p>
+
+## 📚 Learning in public
+
+- **30-day ownership sprint** — reading, breaking and rebuilding SkyCast until I can maintain it unaided
+- **Explanation drills** — a growing question bank about my own codebase, answered without notes
+- **Weekly checkpoints** — at the end of each week I update the table above and re-test myself
+- If you're hiring: ask me where I am. I'll tell you straight, and then I'll show you what I've shipped.
 
 ## 📈 GitHub stats
 
@@ -66,14 +72,9 @@ tests actually pass.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurie24102&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-## 🌱 Currently learning
-
-- Deeper TypeScript patterns for test frameworks
-- API-layer testing (contract & schema validation)
-- Visual regression testing
-
 ## 📫 Let's talk
 
 - **Email:** [jurie24102@gmail.com](mailto:jurie24102@gmail.com)
 - **LinkedIn:** [add-your-link-here]
-- **Open to:** remote junior front-end / QA automation roles
+- **Open to:** junior QA / automation-support / product-ops roles now.
+  **Front-end roles:** when I can demonstrate the fundamentals live — target: within 90 days, and I'll say so publicly when I get there.
